@@ -1,0 +1,1 @@
+FROM zabbix/zabbix-web-service:ubuntu-6.0.20
