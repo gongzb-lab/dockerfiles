@@ -1,0 +1,1 @@
+FROM zabbix/zabbix-agent2:ubuntu-6.0.20
