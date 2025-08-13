@@ -1,0 +1,1 @@
+FROM quay.io/unstructured-io/unstructured-api:latest
